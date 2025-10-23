@@ -68,3 +68,13 @@ El proyecto fue desarrollado íntegramente en **Python**, siguiendo un pipeline 
 | Optimización | `GridSearchCV`, `RandomizedSearchCV` |
 
 ---
+
+📊 Resultados Destacados
+
+Identificación de la relación entre creencia y validez lógica
+
+Construcción de un índice de creencia medible y predecible
+
+Mejora en el desempeño del modelo tras la optimización de hiperparámetros
+
+Comparativa de modelos según métricas de error (MAE, MSE, RMSE)
