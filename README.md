@@ -12,7 +12,7 @@
 ## 🎯 Descripción General
 En cada momento, nuestras decisiones se ven afectadas por distintos motivos, algunos que poco tienen que ver con la decisión en sí.
 En este proyecto, analizamos como el conocimiento previo que uno puede tener lleva a generar algunos errores.
-Los errores debido a estos motivos se encuadran dentro de los llamados **sesgos cognitivos**, que afectan el **razonamiento lógico**
+Los errores debido a estos motivos se encuadran dentro de los llamados **sesgos cognitivos**, que afectan el **razonamiento lógico**.
 La intención del trabajo es evidenciar como este conocimiento previo lleva a la **aceptación de premisas falsas** y el **rechazo de premisas verdaderas**.  
 El objetivo fue explorar la relación entre **creencias**, **validez**, **modalidad de resolución** y **respuestas correctas**, aplicando técnicas de análisis de datos y modelado predictivo.
 
